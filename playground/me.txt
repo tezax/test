@@ -1,5 +1,0 @@
-{{#user}}
-Name: Saiteja Kancharla 
-Skills: HTML, CSS, Js, SQL, Python, React, Node.js
-Email: saitejakancharla40@gmail.com
-{{/user}}
